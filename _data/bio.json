@@ -10,17 +10,13 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "brookemaeda", "url": "http://github.com/brookemaeda" },
-      { "network": "linkedin", "username": "brookemaeda", "url": "http://linkedin.com/in/brookemaeda" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "brookemaeda", "url": "http://linkedin.com/in/brookemaeda" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Electrical Engineering" },
+    { "name": "Software Engineering" },
+    { "name": "Cyber Security" }
   ],
   "skills": [
     {
@@ -35,9 +31,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-26",
       "endDate": "Present",
       "courses": [
       ]
