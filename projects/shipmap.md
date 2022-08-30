@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/map_pic.jpg
 title: "Ship Map"
 date: 2022
 published: true
