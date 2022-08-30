@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/map_pic.jpg
+image: img/mytwindream.jpg
 title: "UHDT Drone Technologies"
 date: 2019-2021
 published: true
