@@ -10,6 +10,10 @@ labels:
   - CSS
   - Javascript
   - Visual Studio Code
+  - Elasticsearch
+  - Kibana
+  - Docker
+  - Logstash
 summary: "A project I worked on as a team with the guidance of a Subject Matter Expert."
 ---
 
