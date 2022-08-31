@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/javaicon.png">
 
 ## The History of Me
 So far I have had experience mostly with C and C++ with a little Python.  This semester in my ICS 314 class I will learn JavaScript and I am a little nervous.  During the summer I spent my days working with JavaScript, HTML, and CSS for an internship.  That sounds like I should have a good understanding but I do not!  I often used templates and set code that I tweaked to fit my needs for my project.  So, I really need to get back to the basics.
