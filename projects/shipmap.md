@@ -4,7 +4,7 @@ type: project
 image: img/map_pic.jpg
 title: "Ship Map"
 date: 2022
-published: true
+published: false
 labels:
   - HTML
   - CSS
