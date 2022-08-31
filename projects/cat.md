@@ -11,6 +11,7 @@ labels:
   - Binary search trees
 summary: "A final lab for my EE205 class that encompassed everything we learned about pointers, binary search trees, and tree traversal."
 ---
+<img class="img-fluid" src="../img/catempire.jpg">
 
 For this project, we were tasked to create and display a list of cats in various ways.  Collection classes are containers for objects.  For this lab we used two classes to create our cat empire.  The first class includes all of the data, keys, and structure for each cat.  The second class manages the data in a binary search tree that holds all of the cats.
 
@@ -18,4 +19,3 @@ The final result of this lab allowed us to print the list of cats in various way
 
 After completing this lab, I showed my knowledge of pointers, binary search trees, and tree traversal.  It was hard at first because there were so many files and functions to keep track of but in the end I was able to finish it.
 
-[Summary Video](https://youtu.be/oxSvIZsWEM8)
