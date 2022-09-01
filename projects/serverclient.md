@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/clientserver.jpg
 title: "Client and Server"
-date: 2021
+date: 2022
 published: true
 labels:
   - C++
