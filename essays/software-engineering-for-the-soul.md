@@ -11,6 +11,7 @@ labels:
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/confused.jpg">
 <img width="200px" class="rounded float-start pe-4" src="../img/software-eng.jpg">
+
 ## What To Do In Life?
 Throughout my childhood everyone would always ask me what I wanted to be when I grew up.  How was I supposed to know?  For the longest time I wanted to be a veterinarian.  However, I learned that they had to go to school for a long time and I decided to change career paths.  In intermediate school, we were introduced to different careers that were grouped together by “pathways”.  In order to find our pathway we would take tests on what type of person you were.  I found that I might have an interest in engineering and realized that as a child I always loved building things and playing with computers.  My fascination with technology grew throughout high school where I learned my first programming language: Python.  It was then that I decided I was going to become a Computer Engineer.
 
