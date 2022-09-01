@@ -36,23 +36,24 @@
       "startDate": "2019-08-26",
       "endDate": "Present",
       "courses": [
+        "ICS 314 - Software Engineering I"
+        "EE 468 - Intro to Operating Systems"
+        "EE 660 - Computer Architecture I"
+        "EE 496 - Capstone Design Project"
+        "EE 342 - Probability & Statistics"
       ]
     }
   ],
   "work": [
     {
-      "company": "Naval Facilities Engineering Command",
+      "company": "Naval Information Warefare Center",
       "position": "Paid Intern",
       "website": "",
-      "startDate": "2019-06-24",
-      "endDate": "2021-08-24",
+      "startDate": "2022-06-10",
+      "endDate": "2022-08-19",
       "summary": "",
       "highlights": [
-        "Expanded my social skills, learn what a professional job requires, and gain the knowledge on how to carry myself professionally.",
-        "Designed and administered training courses that teaches how to properly input project information into a database.  Received a coin from the Executive Officer for this work.",
-        "Accompanied different biologists on surveys for various animals such as bugs, oysters, birds, and green sea turtles.",
-        "Arranged a documented list of curated records and archeological materials that are a part of the Historical Preservation Branch using Excel.  Worked on various Red Hill files, utilizing Excel and Word.",
-        "Redesigned the file structure on the shared drive with minimal guidance."
+        "Worked in a team to accomplish tasks given by a Subject Matter Expert."
       ]
     },
     {
@@ -67,16 +68,21 @@
       ]
     },
     {
-      "company": "Naval Information Warefare Center",
+      "company": "Naval Facilities Engineering Command",
       "position": "Paid Intern",
       "website": "",
-      "startDate": "2022-06-10",
-      "endDate": "2022-08-19",
+      "startDate": "2019-06-24",
+      "endDate": "2021-08-24",
       "summary": "",
       "highlights": [
-        "Worked in a team to accomplish tasks given by a Subject Matter Expert."
+        "Expanded my social skills, learn what a professional job requires, and gain the knowledge on how to carry myself professionally.",
+        "Designed and administered training courses that teaches how to properly input project information into a database.  Received a coin from the Executive Officer for this work.",
+        "Accompanied different biologists on surveys for various animals such as bugs, oysters, birds, and green sea turtles.",
+        "Arranged a documented list of curated records and archeological materials that are a part of the Historical Preservation Branch using Excel.  Worked on various Red Hill files, utilizing Excel and Word.",
+        "Redesigned the file structure on the shared drive with minimal guidance."
       ]
     }
+
   ],
   "volunteer": [
     {
@@ -105,7 +111,13 @@
   ],
   "awards": [
     {
-      "title": "Chancellors Scholarship",
+      "title": "Vice-President of IEE-HKN Eta Kappa Nu (Delta Omega Chapter)",
+      "date": "2022-2023",
+      "awarder": "IEEE HKN",
+      "summary": "HKN is a national honor society for electrical and computer engineers.  Members are selected based on academics, character, and leadership skills."
+    },
+    {
+      "title": "Dean's List",
       "date": "2019-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": ""
@@ -117,11 +129,12 @@
       "summary": ""
     },
     {
-      "title": "Dean's List",
+      "title": "Chancellors Scholarship",
       "date": "2019-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": ""
     }
+
   ],
   "references": [
     {
