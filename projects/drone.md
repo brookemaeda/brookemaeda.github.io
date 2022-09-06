@@ -20,4 +20,7 @@ I first learned about this project when faculty spoke at my freshman dorm.  I be
 
 As a member of the Image Processing subsystem, my main tasks included creating training images for the object detection algorithm.  During my second year, I was also part of pilot and mission operations training.  In pilot training we learned how to properly man a fixed-wing drone in the case that during autonomous flight we need to take over.  Through mission operations training, I learned how all of the subsystems worked together to create a complete team and how each section is important in their own way.  We also learned how to manage team flight practices.
 
-[Summary Video](https://youtu.be/oxSvIZsWEM8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oxSvIZsWEM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<!-- [Summary Video](https://youtu.be/oxSvIZsWEM8) -->
