@@ -11,7 +11,7 @@ labels:
   - Stack Overflow
 ---
 <img width="170px" class="rounded float-start pe-4" src="../img/smartquestions.jpg">
-
+ 
 ## Dumb vs Smart
 Growing up I always heard the phrase: “*there is not such thing as a dumb question*”.  However, we are still always scared to ask questions in fear that it will not be taken seriously.  It is true that there is no dumb question in terms of the essence of what you are asking.  What matters is the manner in which you ask the question.  Especially in the online programming world, you need to be able to ask questions that allow others to answer without having to pry for more information on your situation.
 
