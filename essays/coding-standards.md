@@ -9,7 +9,7 @@ labels:
   - Coding Standards
   - ESLint
 ---
-<img width="170px" class="rounded float-start pe-4" src="../img/standards.jpg">
+<img width="170px" class="rounded float-start pe-4" src="../img/standard.jpg">
  
 ## Are My Standards Too Low?
 Throughout my whole programming career, I have never heard of coding standards.  I did not know that they existed or the importance of them.  Although, I do understand the importance of certain standards such as spacing.  My first programming language was Python back in high school.  This language does not use curly braces or “begin” and “end” keywords.  Instead, it uses spaces and indentation.  This means that it was very important to pay attention to the white space.  I feel like this sense of uniform spacing that was ingrained in me helped me create some sort of standard.
