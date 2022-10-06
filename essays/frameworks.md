@@ -19,15 +19,15 @@ So far I have been using Bootstrap 5 in order to create websites.  Before that, 
 
 ## Why Is It Worth It?
 Even though it takes time to learn a framework, it is obvious that it is better than just using html and css.  Let us start with a website that only uses html.  
-<img width="550px" src="../img/justhtml.jpg">
+<img width="70%"" src="../img/justhtml.jpg">
 
 As you can see in the picture above, it is very bland and boring.  It is just text and images stuck together and needs some styling.  So, what happens when we add a style sheet?
 
-<img width="550px" class="ui large centered image" src="../img/htmlcss.jpg">
+<img width="70%" class="ui large centered image" src="../img/htmlcss.jpg">
 
 Now, this website is looking a little better.  We now have floating images, a background color, colored text, and columns.  However, it is still not exciting.  A website like this gets the information to the reader but it is not engaging.  In order to take it a step further, you would have to make a style sheet that is very complicated.  To avoid that, we use a framework.
 
-<img width=550px" class="ui large centered image" src="../img/bootstrap.jpg">
+<img width=70%"" class="ui large centered image" src="../img/bootstrap.jpg">
                                                                             
 Finally, we have a website that uses Bootstrap 5.  Obviously, it is a lot prettier and nice to look at.  Not only does it allow you to create a better website, it also simplifies your code.  For example, look at the difference between the style sheet of the previous website and this current one:
 
@@ -96,6 +96,6 @@ Using Bootstrap
 
 
 ## My Recreation of Humane Society
-<img width="550px" class="ui large centered image" src="../img/humane.jpg">
+<img width="70%"" class="ui large centered image" src="../img/humane.jpg">
                                                                           
 In my ICS 314 class, we were tasked with recreating a website of our choice using Bootstrap 5.  I chose the humane society website because I actually volunteer for them.  I decided to combine my passion for animals and software engineering.  When making this website, I ran into problems in figuring out what classes and combination of classes would work best to replicate the original page.  However, I recognize that using Bootstrap 5 made my life easier overall.  With the resources available I was able to create a website that was very similar to the original without using countless lines of code.
