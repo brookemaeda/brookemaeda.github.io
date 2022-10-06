@@ -4,7 +4,7 @@ type: essay
 title: "Let’s Frame This Img"
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-06
-published: false
+published: true
 labels:
   - Software Engineering
   - Bootstrap 5
