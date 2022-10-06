@@ -10,7 +10,7 @@ labels:
   - Bootstrap 5
   - UI Frameworks
 ---
- 
+<img width="450px" src="../img/htmlcssmeme.jpg">
 ## What even is a UI Framework?
 A UI framework is basically a set of classes you can use in your html to create an aesthetic website.  These classes have styling associated with them already so you do not have to do much styling yourself.  Once you learn how to utilize the classes that come in a framework, it becomes much easier to create an easy to read and pretty website.
 
@@ -19,10 +19,10 @@ So far I have been using Bootstrap 5 in order to create websites.  Before that, 
 
 ## Why Is It Worth It?
 Even though it takes time to learn a framework, it is obvious that it is better than just using html and css.  Let us start with a website that only uses html.  
-<img width="370px" src="../img/justhtml.jpg">
+<img width="450px" src="../img/justhtml.jpg">
 As you can see in the picture above, it is very bland and boring.  It is just text and images stuck together and needs some styling.  So, what happens when we add a style sheet?
 
-<img width="370px" src="../img/htmlcss.jpg">
+<img width="450px" src="../img/htmlcss.jpg">
 Now, this website is looking a little better.  We now have floating images, a background color, colored text, and columns.  However, it is still not exciting.  A website like this gets the information to the reader but it is not engaging.  In order to take it a step further, you would have to make a style sheet that is very complicated.  To avoid that, we use a framework.
 
 <img width=370px" src="../img/bootstrap.jpg">
@@ -93,5 +93,5 @@ Using Bootstrap
 
 
 ## My Recreation of Humane Society
-<img width="370px" src="../img/humane.jpg">
+<img width="450px" src="../img/humane.jpg">
 In my ICS 314 class, we were tasked with recreating a website of our choice using Bootstrap 5.  I chose the humane society website because I actually volunteer for them.  I decided to combine my passion for animals and software engineering.  When making this website, I ran into problems in figuring out what classes and combination of classes would work best to replicate the original page.  However, I recognize that using Bootstrap 5 made my life easier overall.  With the resources available I was able to create a website that was very similar to the original without using countless lines of code.
