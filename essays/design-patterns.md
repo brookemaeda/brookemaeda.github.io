@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Design Patterns
 ---
-<img width="430px" class="rounded float-start pe-4" src="../img/pattern.jpg">
+<img width="430px" class="ui large centered image" src="../img/pattern.jpg">
 
 ## Design Me a Pattern
 Design patterns are used throughout software engineering.  They are general reusable solutions that arise from common recurring problems.  In other words, they are templates that can be used in many different situations.  Each design pattern has a name, problem description, solution description, and consequences to fully describe them.  Let us take a look at the most common design patterns: factory, singleton, observer, and model-view-controller.  We will also see how these patterns are used throughout my ICS 314 project: [Manoa Eateries](https://manoa-eateries.github.io/).
@@ -27,6 +27,6 @@ Furthermore, we have the observer design pattern which has a set of objects that
 Lastly, the model-view-controller design pattern is often used when implementing a user interface.  You want to make sure that the user can only see certain information.  It separates the model from the view.  In other words, this design pattern creates a separation between the database and what the user can see.  In our case, we have the model as MongoDB.  The Router is the controller like in our App.jsx where different routes are defined based on the logged in user.  Then, the view is described using React.
 
 ## Can’t Have Enough
-<img width="430px" class="rounded float-start pe-4" src="../img/design.jpg">
+<img width="430px" class="ui large centered image" src="../img/design.jpg">
 
 As you can see, design patterns are important and widely used throughout software engineering.  They are helpful in finding solutions to common problems.  There are so many more design patterns out there so any coder can find one to solve their issues.
