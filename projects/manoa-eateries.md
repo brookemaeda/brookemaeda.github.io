@@ -22,15 +22,15 @@ Below you can see some screenshots of the website.  Anyone can see the list of p
 
 **List All Vendors Page**
 
-<img class="ui large centered image" width="500px" src="../img/UserHome.jpg">
+<img class="text-center p-4" width="500px" src="../img/UserHome.jpg">
 
 **Special Picks Page**
 
-<img class="ui large centered image" width="500px" src="../img/EditProfile.jpg">
+<img class="text-center p-4" width="500px" src="../img/EditProfile.jpg">
 
 **Edit User Profile Page**
 
-<img class="ui large centered image" width="500px" src="../img/EditVendor.jpg">
+<img class="text-center p-4" width="500px" src="../img/EditVendor.jpg">
 
 **Edit Vendor Page**
 
