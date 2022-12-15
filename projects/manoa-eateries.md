@@ -18,19 +18,19 @@ This was a final project for my ICS 314 class.  We worked in groups and my group
 
 Below you can see some screenshots of the website.  Anyone can see the list of participating vendors.  However, if a user signs in, they also have the option to see just a few eateries that are open at the time.  There are regular users, vendors, and admin.  Users and vendors can edit their profiles as well.
 
-<img class="img-fluid" width="500px" src="../img/ListAllVendors.jpg">
+<img class="ui large centered image" width="500px" src="../img/ListAllVendors.jpg">
 
 **List All Vendors Page**
 
-<img class="img-fluid" width="500px" src="../img/UserHome.jpg">
+<img class="ui large centered image" width="500px" src="../img/UserHome.jpg">
 
 **Special Picks Page**
 
-<img class="img-fluid" width="500px" src="../img/EditProfile.jpg">
+<img class="ui large centered image" width="500px" src="../img/EditProfile.jpg">
 
 **Edit User Profile Page**
 
-<img class="img-fluid" width="500px" src="../img/EditVendor.jpg">
+<img class="ui large centered image" width="500px" src="../img/EditVendor.jpg">
 
 **Edit Vendor Page**
 
